@@ -1,7 +1,7 @@
 name: Top Action Lessono
 
 on:
-  pull_request
+  pull_request:
     branches:
       -main
 
